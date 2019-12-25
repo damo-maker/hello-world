@@ -1,2 +1,3 @@
 # hello-world
-A repository that covers learning GitHub basics
+I'm engaged daily in an evolving observation and curiosity for the world around me.
+
